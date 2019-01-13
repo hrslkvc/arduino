@@ -1,0 +1,1 @@
+Manipulate led brightness by turning the potentiometer. 
