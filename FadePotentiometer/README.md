@@ -1,6 +1,6 @@
 Manipulate led brightness by turning the potentiometer. 
 
-![demo_gif](https://i.imgur.com/X4iu32N.gifv)
+[Video](https://i.imgur.com/X4iu32N.gifv)
 
 
 #Schematic:
